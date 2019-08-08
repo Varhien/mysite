@@ -1,0 +1,13 @@
+h1 {
+	color: purple;
+	font-family: verdana;
+	font-size: 300%;
+	border: 1px solid red;
+	margin: 50px;
+
+
+}
+body {
+  background-color: black;
+  color: white;
+}
